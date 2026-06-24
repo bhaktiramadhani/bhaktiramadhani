@@ -31,7 +31,7 @@
 
 <h3 align="start">
 Saya adalah lulusan D3 Sistem Informasi dari Politeknik Negeri Banjarmasin dengan minat besar di bidang Software Engineering, khususnya pengembangan website baik Front-end maupun Back-end. Rasa ingin tahu dan semangat belajar mendorong saya untuk terus mengasah keterampilan dan cepat beradaptasi dengan perkembangan teknologi.<br><br>
-Berpengalaman mengerjakan berbagai proyek menggunakan Laravel, Laravel Filament, CodeIgniter, Flask Python, React Native, dan React JS. Saat ini saya bekerja sebagai IT Programmer di PT Barito Berlian Motor.<br><br>
+Berpengalaman mengerjakan berbagai proyek menggunakan Laravel, Laravel Filament, CodeIgniter, Flask Python, React Native, dan React JS.<br><br>
 Saya berusaha menjaga kualitas, ketepatan waktu, dan komunikasi yang baik dalam setiap proyek. Bagi saya, setiap tantangan adalah kesempatan untuk belajar dan menemukan solusi yang efektif.
 </h3>
 
